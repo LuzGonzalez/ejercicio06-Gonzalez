@@ -1,0 +1,31 @@
+# : 1
+num_control: 13400420
+nombre: Luz Alejandra Gonzalez Rodriguez
+calificacion: 90# : 2
+num_control: 13400401
+nombre: Fernando Samuel Enriquez Hernandez
+calificacion: 100# : 3
+num_control: 13400388
+nombre: Eduardo Antonio Barbosa Ortiz
+calificacion: 80# : 4
+num_control: 13400396
+nombre: Raul Rafael Carvajal Gutierrez
+calificacion: 80# : 5
+num_control: 13400452
+nombre: Erika Lizbeth Martinez Bañuelos
+calificacion: 70# : 6
+num_control: 12400269
+nombre: Adan Gonzalez Enriquez
+calificacion: 70# : 7
+num_control: 14400970
+nombre: Jose Angel Montoya Ceniceros
+calificacion: 85# : 8
+num_control: 14400975
+nombre: Irving Yair Nava Hernandez
+calificacion: 100# : 9
+num_control: 14400949
+nombre: Silvia Alicia Cordero Quintero
+calificacion: 100# : 10
+num_control: 14400850
+nombre: Rodrigo Muñoz Gordillo
+calificacion: 90
